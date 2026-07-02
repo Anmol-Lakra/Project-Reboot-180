@@ -45,7 +45,8 @@ Project-Reboot-180/
 ## Progress
 
 - ✅ Day 01 – Python Basics
-- ⏳ Day 02 – Coming Soon
+- ✅ Day 02 – String Indexing, Slicing & Practical String Programs
+- ⏳ Day 03 – Coming Soon
 
 ---
 
