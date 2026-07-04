@@ -47,7 +47,8 @@ Project-Reboot-180/
 - ✅ Day 01 – Python Basics
 - ✅ Day 02 – String Indexing, Slicing & Practical String Programs
 - ✅ Day 03 – Decision Making and Mini Projects  
-- ⏳ Day 04 – Coming Soon
+- ✅ Day 04 – Logical Operators, Nested Conditions & Mini Projects 
+- ⏳ Day 05 – Coming Soon
 
 ---
 
