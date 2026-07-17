@@ -1,35 +1,36 @@
 # 🚀 Project Reboot – 180 Days
 
-A structured journey to rebuild my programming skills from the ground up and become job-ready in Python, Software Development, AI and Machine Learning.
+A structured journey to rebuild my programming skills from the ground up and become job-ready in Python, Software Development, AI, and Machine Learning.
 
 ---
 
 # 🎯 Goal
 
-* Master Python Programming
-* Build strong problem-solving skills
-* Learn Data Structures & Algorithms
-* Learn SQL
-* Learn Git & GitHub
-* Learn AI & Machine Learning
-* Build an impressive project portfolio
-* Become job-ready within 180 days
+- Master Python Programming
+- Develop strong problem-solving skills
+- Learn Data Structures & Algorithms
+- Learn SQL
+- Learn Git & GitHub
+- Learn AI & Machine Learning
+- Build real-world projects
+- Become job-ready within 180 days
 
 ---
 
-# ✅ Progress
+# 📈 Progress
 
-| Day | Topic                                         | Status |
-| --: | --------------------------------------------- | :----: |
-|   1 | Python Fundamentals                           |    ✅   |
-|   2 | Strings & String Operations                   |    ✅   |
-|   3 | Conditional Statements                        |    ✅   |
-|   4 | While Loops                                   |    ✅   |
-|   5 | While Loop Mini Projects                      |    ✅   |
-|   6 | For Loops, String Iteration & Text Processing |    ✅   |
-|   7 | Coming Soon                                   |    ⏳   |
-| ... | ...                                           |   ...  |
-| 180 | Final Portfolio                               |    ⏳   |
+| Day | Topic | Status |
+|----:|-------------------------------|:------:|
+| 1 | Python Fundamentals | ✅ |
+| 2 | Strings | ✅ |
+| 3 | Conditional Statements | ✅ |
+| 4 | While Loops | ✅ |
+| 5 | While Loop Mini Projects | ✅ |
+| 6 | For Loops & String Processing | ✅ |
+| 7 | Nested Loops & Pattern Generation | ✅ |
+| 8 | Coming Soon | ⏳ |
+| ... | ... | ... |
+| 180 | Final Portfolio | ⏳ |
 
 ---
 
@@ -44,34 +45,48 @@ Project-Reboot-180/
 │   ├── Day03/
 │   ├── Day04/
 │   ├── Day05/
-│   └── Day06/
+│   ├── Day06/
+│   ├── Day07/
+│   └── README.md
 │
 └── README.md
 ```
 
 ---
 
-# 📌 Skills Covered So Far
+# 🐍 Python Skills Covered
 
-* Python Fundamentals
-* Variables
-* Data Types
-* User Input
-* Operators
-* String Methods
-* String Slicing
-* Conditional Statements
-* Nested Conditions
-* While Loops
-* Break & Continue
-* For Loops
-* Range Function
-* String Iteration
-* Character Classification
-* Input Validation
-* Text Processing
-* Algorithm Design
-* Git & GitHub Basics
+## Core Python
+
+- Variables
+- Data Types
+- User Input
+- Type Casting
+- Operators
+- Strings
+- String Methods
+- String Slicing
+- Conditional Statements
+- While Loops
+- For Loops
+- Nested Loops
+- Boolean Logic
+
+---
+
+## Programming Skills
+
+- Input Validation
+- Menu-driven Programs
+- Algorithm Design
+- Problem Solving
+- Pattern Generation
+- Text Processing
+- Character Analysis
+- Loop Design
+- Code Reusability
+- Debugging
+- Edge Case Handling
 
 ---
 
@@ -79,45 +94,92 @@ Project-Reboot-180/
 
 ## Day 1
 
-* Age Calculator
+- Age Calculator
+
+---
 
 ## Day 5
 
-* Countdown Timer
-* Password Retry System
-* Number Guessing Game
-* ATM PIN Verification
-* Simple Quiz Game
-* Rock Paper Scissors
+- Countdown Timer
+- Password Retry System
+- Number Guessing Game
+- ATM PIN Verification
+- Simple Quiz Game
+- Rock Paper Scissors
+
+---
 
 ## Day 6
 
-* Character Analyzer
-* Password Strength Analyzer
-* Word Frequency Counter
-* Palindrome Checker
-* Simple Text Statistics
+- Character Analyzer
+- Password Strength Analyzer
+- Word Frequency Counter
+- Palindrome Checker
+- Simple Text Statistics
 
 ---
 
-# 📈 Current Progress
+## Day 7
 
-Days Completed: **6 / 180**
-
-Python Foundation Progress:
-
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
-
-**6 Days Completed**
+- Rectangle Pattern Generator
+- Right Triangle Generator
+- Inverted Triangle Generator
+- Pattern Designer (Capstone)
 
 ---
 
-## 💪 Motto
+# 📊 Repository Statistics
+
+## Learning Days Completed
+
+**7 / 180**
+
+---
+
+## Mini Projects Completed
+
+**16 Projects**
+
+---
+
+## Concepts Mastered
+
+- Python Fundamentals
+- Strings
+- Conditionals
+- While Loops
+- For Loops
+- Nested Loops
+- Pattern Printing
+- Input Validation
+- Menu-driven Applications
+- Algorithm Design
+- Text Processing
+
+---
+
+# 🚀 Current Progress
+
+Python Foundation
+
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
+
+**7 Days Completed**
+
+---
+
+# 🎯 Current Focus
+
+Building strong programming fundamentals while developing clean coding habits, algorithmic thinking, and problem-solving skills.
+
+---
+
+# 💡 Motto
 
 > "Consistency beats intensity. Small improvements every day lead to extraordinary results."
 
 ---
 
-## ⭐ Connect With My Journey
+# 📌 About This Repository
 
-This repository documents my daily learning, projects, mistakes, improvements, and growth as I work toward becoming a professional software developer.
+This repository documents my daily journey of rebuilding my programming skills through structured learning, coding exercises, mini projects, GitHub version control, and continuous improvement. Every day includes practical exercises, projects, and documentation to track my growth as a software developer.
