@@ -1,185 +1,101 @@
-# 🚀 Project Reboot – 180 Days
+# 📈 Progress Tracker
 
-A structured journey to rebuild my programming skills from the ground up and become job-ready in Python, Software Development, AI, and Machine Learning.
-
----
-
-# 🎯 Goal
-
-- Master Python Programming
-- Develop strong problem-solving skills
-- Learn Data Structures & Algorithms
-- Learn SQL
-- Learn Git & GitHub
-- Learn AI & Machine Learning
-- Build real-world projects
-- Become job-ready within 180 days
+| Day | Topics | Status |
+|-----|-------------------------------|:------:|
+| Day 1 | Python Basics, Variables, Input, Output | ✅ |
+| Day 2 | Strings, Indexing, Slicing | ✅ |
+| Day 3 | if Statements, Comparisons | ✅ |
+| Day 4 | elif, Nested Conditions | ✅ |
+| Day 5 | Loops (while) | ✅ |
+| Day 6 | for Loops & Range | ✅ |
+| Day 7 | Nested Loops & Pattern Problems | ✅ |
+| Day 8 | Lists & Class Management Projects | ✅ |
+| Day 9 | Coming Soon | ⏳ |
 
 ---
 
-# 📈 Progress
+## 📂 Folder Structure
 
-| Day | Topic | Status |
-|----:|-------------------------------|:------:|
-| 1 | Python Fundamentals | ✅ |
-| 2 | Strings | ✅ |
-| 3 | Conditional Statements | ✅ |
-| 4 | While Loops | ✅ |
-| 5 | While Loop Mini Projects | ✅ |
-| 6 | For Loops & String Processing | ✅ |
-| 7 | Nested Loops & Pattern Generation | ✅ |
-| 8 | Coming Soon | ⏳ |
-| ... | ... | ... |
-| 180 | Final Portfolio | ⏳ |
-
----
-
-# 📂 Repository Structure
-
-```text
-Project-Reboot-180/
+```
+Project-Reboot-180
 │
-├── Python/
-│   ├── Day01/
-│   ├── Day02/
-│   ├── Day03/
-│   ├── Day04/
-│   ├── Day05/
-│   ├── Day06/
-│   ├── Day07/
-│   └── README.md
+├── Python
+│   ├── Day01
+│   ├── Day02
+│   ├── Day03
+│   ├── Day04
+│   ├── Day05
+│   ├── Day06
+│   ├── Day07
+│   └── Day08
 │
 └── README.md
 ```
 
 ---
 
-# 🐍 Python Skills Covered
+## 🎯 Goal
 
-## Core Python
-
-- Variables
-- Data Types
-- User Input
-- Type Casting
-- Operators
-- Strings
-- String Methods
-- String Slicing
-- Conditional Statements
-- While Loops
-- For Loops
-- Nested Loops
-- Boolean Logic
+To become a professional Software Engineer and AI Engineer by mastering Computer Science fundamentals, programming, software engineering, AI, and real-world project development through consistent daily practice.
 
 ---
 
-## Programming Skills
+## 🛠 Current Skills
 
-- Input Validation
-- Menu-driven Programs
-- Algorithm Design
-- Problem Solving
-- Pattern Generation
-- Text Processing
-- Character Analysis
-- Loop Design
-- Code Reusability
-- Debugging
-- Edge Case Handling
+### Python
+
+- ✅ Variables
+- ✅ Input / Output
+- ✅ Data Types
+- ✅ Strings
+- ✅ String Methods
+- ✅ Indexing
+- ✅ Slicing
+- ✅ if / elif / else
+- ✅ while Loops
+- ✅ for Loops
+- ✅ Nested Loops
+- ✅ Lists
+- ✅ Input Validation
+- ✅ Counters
+- ✅ Accumulators
+- ✅ Report Generation
 
 ---
 
-# 💻 Projects Built
+## 🏆 Major Projects Completed
 
-## Day 1
-
+- Hello World
 - Age Calculator
+- Student Marks Manager
+- Class Statistics
+- Pass/Fail Analyzer
+- Grade Distribution
+- Class Report Generator
 
 ---
 
-## Day 5
+## 📅 Project Status
 
-- Countdown Timer
-- Password Retry System
-- Number Guessing Game
-- ATM PIN Verification
-- Simple Quiz Game
-- Rock Paper Scissors
+**Current Day:** Day 8
 
----
+**Next Topic:** Functions
 
-## Day 6
-
-- Character Analyzer
-- Password Strength Analyzer
-- Word Frequency Counter
-- Palindrome Checker
-- Simple Text Statistics
+**Overall Progress:** 8 / 180 Days Completed
 
 ---
 
-## Day 7
+*"Small progress every day leads to remarkable results."*
 
-- Rectangle Pattern Generator
-- Right Triangle Generator
-- Inverted Triangle Generator
-- Pattern Designer (Capstone)
+## 📖 Learning Journey
 
----
+This repository documents my journey of rebuilding my programming skills from the ground up after several years away from software development.
 
-# 📊 Repository Statistics
+Every day's folder contains:
+- Notes
+- Practice programs
+- Mini projects
+- Industry-style code reviews
+- Progressive improvements
 
-## Learning Days Completed
-
-**7 / 180**
-
----
-
-## Mini Projects Completed
-
-**16 Projects**
-
----
-
-## Concepts Mastered
-
-- Python Fundamentals
-- Strings
-- Conditionals
-- While Loops
-- For Loops
-- Nested Loops
-- Pattern Printing
-- Input Validation
-- Menu-driven Applications
-- Algorithm Design
-- Text Processing
-
----
-
-# 🚀 Current Progress
-
-Python Foundation
-
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
-
-**7 Days Completed**
-
----
-
-# 🎯 Current Focus
-
-Building strong programming fundamentals while developing clean coding habits, algorithmic thinking, and problem-solving skills.
-
----
-
-# 💡 Motto
-
-> "Consistency beats intensity. Small improvements every day lead to extraordinary results."
-
----
-
-# 📌 About This Repository
-
-This repository documents my daily journey of rebuilding my programming skills through structured learning, coding exercises, mini projects, GitHub version control, and continuous improvement. Every day includes practical exercises, projects, and documentation to track my growth as a software developer.
+The goal is to build strong programming fundamentals before moving into Data Structures & Algorithms, Software Engineering, Machine Learning, and Artificial Intelligence.
