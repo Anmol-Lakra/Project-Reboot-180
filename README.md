@@ -1,101 +1,184 @@
-# 📈 Progress Tracker
+# 🚀 Project Reboot 180
 
-| Day | Topics | Status |
-|-----|-------------------------------|:------:|
-| Day 1 | Python Basics, Variables, Input, Output | ✅ |
-| Day 2 | Strings, Indexing, Slicing | ✅ |
-| Day 3 | if Statements, Comparisons | ✅ |
-| Day 4 | elif, Nested Conditions | ✅ |
-| Day 5 | Loops (while) | ✅ |
-| Day 6 | for Loops & Range | ✅ |
-| Day 7 | Nested Loops & Pattern Problems | ✅ |
-| Day 8 | Lists & Class Management Projects | ✅ |
-| Day 9 | Coming Soon | ⏳ |
+> **A 180-Day Journey to Become a Software Engineer**
+
+Project Reboot 180 is my structured roadmap to rebuild my programming skills from the ground up and prepare for a career in Software Engineering and Artificial Intelligence.
+
+This repository documents my daily learning, coding exercises, mini projects, and major projects as I progress through Python, Data Structures & Algorithms, Object-Oriented Programming, Databases, Web Development, AI, and Software Engineering.
 
 ---
 
-## 📂 Folder Structure
+# 🎯 Goals
+
+- Master Python programming
+- Develop strong problem-solving skills
+- Learn software engineering best practices
+- Build real-world projects
+- Create a professional GitHub portfolio
+- Become job-ready for Software Engineering and AI roles
+
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+- Python (Current)
+- SQL *(Coming Soon)*
+- JavaScript *(Coming Soon)*
+
+### Tools
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+# 📁 Repository Structure
 
 ```
-Project-Reboot-180
+Project-Reboot-180/
 │
-├── Python
-│   ├── Day01
-│   ├── Day02
-│   ├── Day03
-│   ├── Day04
-│   ├── Day05
-│   ├── Day06
-│   ├── Day07
-│   └── Day08
+├── Python/
+│   ├── Day01/
+│   ├── Day02/
+│   ├── Day03/
+│   ├── Day04/
+│   ├── Day05/
+│   ├── Day06/
+│   ├── Day07/
+│   ├── Day08/
+│   ├── Day09/
+│   │   ├── student_management_system.py
+│   │   └── README.md
+│   │
+│   └── README.md
+│
+├── SQL/                 (Coming Soon)
+├── DSA/                 (Coming Soon)
+├── OOP/                 (Coming Soon)
+├── Projects/            (Coming Soon)
 │
 └── README.md
 ```
 
 ---
 
-## 🎯 Goal
+# 📚 Topics Covered
 
-To become a professional Software Engineer and AI Engineer by mastering Computer Science fundamentals, programming, software engineering, AI, and real-world project development through consistent daily practice.
-
----
-
-## 🛠 Current Skills
-
-### Python
+## Python
 
 - ✅ Variables
-- ✅ Input / Output
 - ✅ Data Types
+- ✅ Input & Output
+- ✅ Operators
 - ✅ Strings
 - ✅ String Methods
-- ✅ Indexing
-- ✅ Slicing
-- ✅ if / elif / else
-- ✅ while Loops
-- ✅ for Loops
-- ✅ Nested Loops
+- ✅ Conditional Statements
+- ✅ Loops
 - ✅ Lists
+- ✅ Functions
+- ✅ Modular Programming
 - ✅ Input Validation
-- ✅ Counters
-- ✅ Accumulators
-- ✅ Report Generation
 
 ---
 
-## 🏆 Major Projects Completed
+# 🚀 Completed Projects
 
-- Hello World
-- Age Calculator
-- Student Marks Manager
-- Class Statistics
-- Pass/Fail Analyzer
-- Grade Distribution
-- Class Report Generator
+| Project | Concepts Practiced |
+|----------|--------------------|
+| Age Calculator | Variables, User Input, Arithmetic |
+| Student Management System | Functions, Lists, Loops, Input Validation, Modular Programming |
 
 ---
 
-## 📅 Project Status
+# 🧠 Skills Gained
 
-**Current Day:** Day 8
-
-**Next Topic:** Functions
-
-**Overall Progress:** 8 / 180 Days Completed
+- Python Fundamentals
+- Problem Solving
+- Logical Thinking
+- String Manipulation
+- Conditional Logic
+- Looping Techniques
+- List Operations
+- Function Design
+- Modular Programming
+- Input Validation
+- Basic Software Engineering Principles
 
 ---
 
-*"Small progress every day leads to remarkable results."*
+# 📈 Progress Tracker
 
-## 📖 Learning Journey
+| Day | Topic | Status |
+|-----|-------------------------------|:------:|
+| Day 1 | Python Fundamentals | ✅ |
+| Day 2 | Strings & String Methods | ✅ |
+| Day 3 | Conditional Statements | ✅ |
+| Day 4 | Loops (Part 1) | ✅ |
+| Day 5 | Loops (Part 2) | ✅ |
+| Day 6 | Lists (Part 1) | ✅ |
+| Day 7 | Lists (Part 2) | ✅ |
+| Day 8 | Functions (Basics) | ✅ |
+| Day 9 | Functions & Student Management System | ✅ |
+| Day 10 | Coming Soon | 🚧 |
 
-This repository documents my journey of rebuilding my programming skills from the ground up after several years away from software development.
+---
 
-Every day's folder contains:
-- Notes
-- Practice programs
-- Mini projects
-- Industry-style code reviews
-- Progressive improvements
+# 🎯 Learning Philosophy
 
-The goal is to build strong programming fundamentals before moving into Data Structures & Algorithms, Software Engineering, Machine Learning, and Artificial Intelligence.
+This repository focuses on understanding concepts rather than memorizing syntax.
+
+Every topic is practiced through:
+- Exercises
+- Mini Projects
+- Capstone Projects
+- Code Reviews
+- Refactoring
+- Software Engineering Best Practices
+
+The objective is not just to write code that works, but to write code that is clean, modular, readable, and maintainable.
+
+---
+
+# 📌 Current Focus
+
+- Python Programming
+- Software Engineering Fundamentals
+- Clean Code Practices
+
+---
+
+# 📅 Project Status
+
+**Current Day:** Day 9 / 180
+
+**Status:** 🟢 In Progress
+
+---
+
+# 📖 Future Roadmap
+
+- File Handling
+- Exception Handling
+- Modules & Packages
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- SQL & Databases
+- Web Development
+- APIs
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Full-Stack Projects
+
+---
+
+# 🤝 Acknowledgements
+
+This repository is part of my personal commitment to continuous learning and consistent daily practice.
+
+Each project represents another step toward becoming a skilled Software Engineer.
+
+---
+
+## ⭐ If you find this repository useful or inspiring, feel free to star it!
