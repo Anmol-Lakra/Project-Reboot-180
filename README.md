@@ -1,266 +1,180 @@
-# 🚀 Project Reboot-180
+# 🚀 Project Reboot 180
 
-> A 180-day journey to rebuild my programming skills from the ground up and become industry-ready in Python, Software Development, AI, and Full-Stack Development.
-
----
-
-# 🎯 Objective
-
-After taking a long break from programming, I started **Project Reboot-180** to systematically rebuild my technical skills through consistent daily practice.
-
-The goal is not only to learn Python but also to develop the problem-solving, software design, and engineering mindset required for professional software development.
-
-Every day's work includes:
-- Learning new concepts
-- Solving exercises
-- Building mini projects
-- Following clean coding practices
-- Using Git and GitHub for version control
+> **A structured 180-day journey to rebuild my Computer Science and Programming skills from the ground up, with the goal of becoming a professional Software Developer and AI Engineer.**
 
 ---
 
-# 📅 Progress
+# 📖 About This Project
 
-| Day | Topics | Status |
-|-----:|--------|:------:|
-| 1 | Python Fundamentals | ✅ |
-| 2 | Strings & String Operations | ✅ |
-| 3 | Conditional Statements | ✅ |
-| 4 | Loops | ✅ |
-| 5 | Nested Loops | ✅ |
-| 6 | Pattern Programming | ✅ |
-| 7 | Lists | ✅ |
-| 8 | Functions (Introduction) | ✅ |
-| 9 | Functions & Modular Programming | ✅ |
-| 10 | Advanced Functions | ✅ |
+Project Reboot 180 is a self-paced learning journey designed to rebuild my programming knowledge from first principles while following industry-standard coding practices.
+
+Rather than rushing through topics, the focus is on:
+
+- Understanding concepts deeply
+- Writing clean, readable code
+- Solving problems independently
+- Developing strong logical thinking
+- Building real-world projects
+- Following professional software engineering practices
+
+Every topic is accompanied by exercises, mini-projects, code reviews, and GitHub documentation.
 
 ---
 
-# 📚 Day-wise Overview
+# 🎯 Objectives
 
-## ✅ Day 1
-### Python Fundamentals
+- Master Python programming
+- Build strong problem-solving skills
+- Develop algorithmic thinking
+- Learn Data Structures & Algorithms
+- Understand Object-Oriented Programming
+- Build practical projects
+- Learn AI and Machine Learning
+- Become job-ready for Software Development and AI roles
 
-Topics
+---
+
+# 🗺️ Roadmap
+
+| Day | Topic | Status |
+|------|-------------------------------|:------:|
+| Day 1 | Python Fundamentals | ✅ |
+| Day 2 | Strings & String Operations | ✅ |
+| Day 3 | Conditional Statements | ✅ |
+| Day 4 | Loops | ✅ |
+| Day 5 | Functions | ✅ |
+| Day 6 | Lists | ✅ |
+| Day 7 | Tuples, Sets & Dictionaries | ✅ |
+| Day 8 | Advanced Function Practice | ✅ |
+| Day 9 | Practice & Mini Projects | ✅ |
+| Day 10 | Revision & Problem Solving | ✅ |
+| Day 11 | Recursion | ✅ |
+| Day 12 | File Handling | ⏳ |
+| Day 13 | Exception Handling | ⏳ |
+| Day 14 | Modules & Packages | ⏳ |
+| Day 15 | Object-Oriented Programming (Part 1) | ⏳ |
+| Day 16 | Object-Oriented Programming (Part 2) | ⏳ |
+| Day 17+ | Data Structures & Algorithms | ⏳ |
+| Future | Databases (SQL) | ⏳ |
+| Future | Web Development | ⏳ |
+| Future | APIs | ⏳ |
+| Future | Git & GitHub Advanced | ⏳ |
+| Future | Testing | ⏳ |
+| Future | AI & Machine Learning | ⏳ |
+| Future | Portfolio Projects | ⏳ |
+| Day 180 | Project Completion | 🎯 |
+
+---
+
+# ✅ Topics Completed
+
+## Python Fundamentals
 
 - Variables
 - Data Types
-- Input & Output
-- Arithmetic Operators
+- Input / Output
+- Operators
 - Type Conversion
-- User Interaction
-
-Mini Project
-
-- Age Calculator
 
 ---
 
-## ✅ Day 2
-### Strings
-
-Topics
-
-- String Indexing
-- String Slicing
-- String Methods
-- Escape Characters
-- f-Strings
-- String Formatting
-
-Exercises
-
-- Multiple string manipulation problems
-
----
-
-## ✅ Day 3
-### Conditional Statements
-
-Topics
+## Decision Making
 
 - if
 - elif
 - else
-- Comparison Operators
-- Logical Operators
 - Nested Conditions
-
-Exercises
-
-- Grade Calculator
-- Even/Odd Checker
-- Eligibility Checker
 
 ---
 
-## ✅ Day 4
-### Loops
-
-Topics
+## Loops
 
 - while Loop
 - for Loop
-- range()
-- Loop Control
-
-Exercises
-
-- Counting Programs
-- Number Series
-- Multiplication Tables
-
----
-
-## ✅ Day 5
-### Nested Loops
-
-Topics
-
-- Nested for Loops
-- Nested while Loops
-- Logic Building
-
-Exercises
-
-- Number Patterns
-- Character Patterns
-
----
-
-## ✅ Day 6
-### Pattern Programming
-
-Topics
-
-- Pattern Logic
+- break
+- continue
 - Nested Loops
-- Printing Shapes
-
-Exercises
-
-- Triangle Patterns
-- Pyramid Patterns
-- Reverse Patterns
 
 ---
 
-## ✅ Day 7
-### Lists
+## Functions
 
-Topics
-
-- Creating Lists
-- Indexing
-- Slicing
-- Traversing Lists
-- List Methods
-
-Exercises
-
-- List Manipulation
-- Searching
-- Updating Data
-
----
-
-## ✅ Day 8
-### Functions (Introduction)
-
-Topics
-
-- Creating Functions
-- Calling Functions
+- Function Creation
 - Parameters
 - Return Values
-
-Exercises
-
-- Basic Function Programs
-
----
-
-## ✅ Day 9
-### Functions & Modular Programming
-
-Topics
-
-- Function Design
-- Code Reusability
-- Input Validation
-- Modular Programming
-- Software Architecture
-
-Mini Project
-
-- Student Management System
-
----
-
-## ✅ Day 10
-### Advanced Functions
-
-Topics
-
 - Local Variables
 - Global Variables
-- Default Parameters
-- Positional Arguments
-- Keyword Arguments
-- Functions Calling Functions
-- Function Reusability
-- Modular Programming
-
-Mini Project
-
-- Employee Salary Calculator
-
----
-
-# 💻 Mini Projects
-
-| Project | Concepts |
-|----------|----------|
-| 🎂 Age Calculator | Variables, Input, Arithmetic |
-| 🎓 Student Management System | Functions, Modular Programming, Input Validation |
-| 💰 Employee Salary Calculator | Advanced Functions, Scope, Default Parameters |
-
----
-
-# 🛠 Skills Acquired
-
-## Python
-
-- Variables
-- Data Types
-- Strings
-- Conditions
-- Loops
-- Lists
-- Functions
-- Parameters
 - Scope
-- Input Validation
 
 ---
 
-## Software Engineering
+## Collections
 
-- Clean Code
-- Modular Design
-- Function Decomposition
-- Separation of Responsibilities
-- Input Validation
-- Software Architecture
-- Git
-- GitHub
+### Lists
+
+- Creating Lists
+- Updating Lists
+- Removing Items
+- Searching
+- Slicing
+
+### Tuples
+
+- Creation
+- Accessing Data
+
+### Sets
+
+- Unique Values
+- Basic Operations
+
+### Dictionaries
+
+- Keys & Values
+- Updating Data
+- Accessing Data
 
 ---
 
-# 📁 Repository Structure
+## String Handling
 
-```
+- String Methods
+- Indexing
+- Positive Indexing
+- Negative Indexing
+- Slicing
+- Escape Characters
+- Formatting
+
+---
+
+## Recursion
+
+Completed 15 recursive programs:
+
+- Recursive Sum
+- Recursive Factorial
+- Count Digits
+- Reverse Digits
+- Print Characters
+- Print Characters Backwards
+- Count Characters
+- Reverse String
+- Palindrome Checker
+- Count Vowels
+- Count Character Occurrences
+- Remove Character
+- Replace Character
+- Find Maximum in List
+- Recursive Binary Search
+
+---
+
+# 📂 Repository Structure
+
+```text
 Project-Reboot-180/
+
 │
 ├── Python/
 │   ├── Day01/
@@ -272,41 +186,87 @@ Project-Reboot-180/
 │   ├── Day07/
 │   ├── Day08/
 │   ├── Day09/
-│   └── Day10/
+│   ├── Day10/
+│   ├── Day11/
+│   └── ...
 │
 └── README.md
 ```
 
 ---
 
-# 🎯 Current Progress
+# 🧠 Skills Developed So Far
 
-- ✅ 10 / 180 Days Completed
-- ⏳ 170 Days Remaining
-
----
-
-# 📌 Goals
-
-- Master Python
-- Learn Data Structures & Algorithms
-- Learn Object-Oriented Programming
-- Learn Databases (SQL)
-- Learn Web Development
-- Learn AI & Machine Learning
-- Build Portfolio Projects
-- Become Industry Ready
+- Logical Thinking
+- Problem Solving
+- Program Design
+- Function Decomposition
+- Code Reusability
+- Recursive Thinking
+- Debugging
+- Dry Running Algorithms
+- Clean Code Practices
 
 ---
 
-# 🚀 Learning Philosophy
+# 📚 Learning Methodology
 
-This repository is not a collection of copied code or tutorial projects.
+Every topic follows the same process:
 
-Every exercise and project is written by me as part of a structured learning journey focused on developing strong programming fundamentals and software engineering practices.
-
-The emphasis is on consistency, problem-solving, clean code, and continuous improvement.
+1. Learn the concept
+2. Understand the logic
+3. Dry run examples
+4. Solve guided exercises
+5. Solve independently
+6. Review using industry standards
+7. Document progress on GitHub
 
 ---
 
-*"Small improvements every day lead to remarkable results over time."*
+# 🏆 Project Goals
+
+By the end of Project Reboot 180, I aim to:
+
+- Write clean and maintainable code
+- Solve programming problems confidently
+- Build complete software projects
+- Understand software engineering principles
+- Learn AI and Machine Learning
+- Create a strong GitHub portfolio
+- Become job-ready for Software Development and AI Engineering roles
+
+---
+
+# 📈 Current Progress
+
+```text
+Overall Progress
+
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11 / 180 Days
+```
+
+---
+
+# 🚀 Next Milestone
+
+**Day 12 – File Handling**
+
+Upcoming topics:
+
+- Reading Files
+- Writing Files
+- Appending Data
+- File Modes
+- File-Based Mini Projects
+
+---
+
+# ⭐ Motto
+
+> **"Consistency beats intensity. Every day of practice builds the developer I want to become."**
+
+---
+
+## 📅 Status
+
+**Project Reboot 180 is currently in progress.**
