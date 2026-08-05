@@ -1,0 +1,10 @@
+print("=" * 40)
+print("    Practice 2 - Student Record Saver")
+print("=" * 40)
+print()
+
+name = input("Enter student name: ").strip()
+age = input("Enter student age: ").strip()
+file = open("students.txt", "a")
+file.write("\n" + name + " - " + age)
+file.close()

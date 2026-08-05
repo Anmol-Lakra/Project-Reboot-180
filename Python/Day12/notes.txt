@@ -1,0 +1,10 @@
+
+Heloo World
+How are you
+Today I learnt file handling.
+Today I learned Python.
+Today I completed recursion.
+Today I learned file handling.
+This line was written in final mini project
+this is the second time i am addding the notes
+hello this is after the correction check

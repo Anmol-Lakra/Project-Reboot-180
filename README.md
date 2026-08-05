@@ -1,272 +1,325 @@
-# 🚀 Project Reboot 180
+# 🚀 Project Reboot-180
 
-> **A structured 180-day journey to rebuild my Computer Science and Programming skills from the ground up, with the goal of becoming a professional Software Developer and AI Engineer.**
+> **Rebuilding my Computer Science foundation from scratch—one day, one concept, one project at a time.**
 
----
+Project Reboot-180 is my structured journey to master programming fundamentals and software development through consistent daily practice, algorithm design, mini projects, and industry-standard code reviews.
 
-# 📖 About This Project
-
-Project Reboot 180 is a self-paced learning journey designed to rebuild my programming knowledge from first principles while following industry-standard coding practices.
-
-Rather than rushing through topics, the focus is on:
-
-- Understanding concepts deeply
-- Writing clean, readable code
-- Solving problems independently
-- Developing strong logical thinking
-- Building real-world projects
-- Following professional software engineering practices
-
-Every topic is accompanied by exercises, mini-projects, code reviews, and GitHub documentation.
+The goal is not simply to write code that works, but to understand *why* it works and develop the habits required of a professional software developer.
 
 ---
 
 # 🎯 Objectives
 
-- Master Python programming
-- Build strong problem-solving skills
-- Develop algorithmic thinking
-- Learn Data Structures & Algorithms
-- Understand Object-Oriented Programming
-- Build practical projects
-- Learn AI and Machine Learning
-- Become job-ready for Software Development and AI roles
+- Rebuild programming fundamentals from first principles.
+- Develop strong problem-solving skills.
+- Learn to design algorithms before writing code.
+- Write clean, readable, and maintainable code.
+- Build a professional GitHub portfolio.
+- Prepare for Software Development and AI-related careers.
 
 ---
 
-# 🗺️ Roadmap
+# 🛠️ Learning Methodology
 
-| Day | Topic | Status |
-|------|-------------------------------|:------:|
-| Day 1 | Python Fundamentals | ✅ |
-| Day 2 | Strings & String Operations | ✅ |
-| Day 3 | Conditional Statements | ✅ |
-| Day 4 | Loops | ✅ |
-| Day 5 | Functions | ✅ |
-| Day 6 | Lists | ✅ |
-| Day 7 | Tuples, Sets & Dictionaries | ✅ |
-| Day 8 | Advanced Function Practice | ✅ |
-| Day 9 | Practice & Mini Projects | ✅ |
-| Day 10 | Revision & Problem Solving | ✅ |
-| Day 11 | Recursion | ✅ |
-| Day 12 | File Handling | ⏳ |
-| Day 13 | Exception Handling | ⏳ |
-| Day 14 | Modules & Packages | ⏳ |
-| Day 15 | Object-Oriented Programming (Part 1) | ⏳ |
-| Day 16 | Object-Oriented Programming (Part 2) | ⏳ |
-| Day 17+ | Data Structures & Algorithms | ⏳ |
-| Future | Databases (SQL) | ⏳ |
-| Future | Web Development | ⏳ |
-| Future | APIs | ⏳ |
-| Future | Git & GitHub Advanced | ⏳ |
-| Future | Testing | ⏳ |
-| Future | AI & Machine Learning | ⏳ |
-| Future | Portfolio Projects | ⏳ |
-| Day 180 | Project Completion | 🎯 |
+Every topic follows the same learning process.
+
+```
+Learn Concept
+      ↓
+Concept Questions
+      ↓
+Algorithm Design
+      ↓
+Implementation
+      ↓
+Industry Code Review
+      ↓
+Improvement
+      ↓
+GitHub
+```
+
+The emphasis is on understanding, not memorization.
 
 ---
 
-# ✅ Topics Completed
+# 📚 Curriculum Progress
 
-## Python Fundamentals
-
-- Variables
-- Data Types
-- Input / Output
-- Operators
-- Type Conversion
-
----
-
-## Decision Making
-
-- if
-- elif
-- else
-- Nested Conditions
-
----
-
-## Loops
-
-- while Loop
-- for Loop
-- break
-- continue
-- Nested Loops
-
----
-
-## Functions
-
-- Function Creation
-- Parameters
-- Return Values
-- Local Variables
-- Global Variables
-- Scope
-
----
-
-## Collections
-
-### Lists
-
-- Creating Lists
-- Updating Lists
-- Removing Items
-- Searching
-- Slicing
-
-### Tuples
-
-- Creation
-- Accessing Data
-
-### Sets
-
-- Unique Values
-- Basic Operations
-
-### Dictionaries
-
-- Keys & Values
-- Updating Data
-- Accessing Data
-
----
-
-## String Handling
-
-- String Methods
-- Indexing
-- Positive Indexing
-- Negative Indexing
-- Slicing
-- Escape Characters
-- Formatting
-
----
-
-## Recursion
-
-Completed 15 recursive programs:
-
-- Recursive Sum
-- Recursive Factorial
-- Count Digits
-- Reverse Digits
-- Print Characters
-- Print Characters Backwards
-- Count Characters
-- Reverse String
-- Palindrome Checker
-- Count Vowels
-- Count Character Occurrences
-- Remove Character
-- Replace Character
-- Find Maximum in List
-- Recursive Binary Search
+| Day | Module | Status |
+|-----:|------------------------------|:------:|
+| 01 | Python Fundamentals | ✅ |
+| 02 | Strings | ✅ |
+| 03 | Conditional Statements | ✅ |
+| 04 | Advanced Conditional Statements | ✅ |
+| 05 | While Loops | ✅ |
+| 06 | For Loops | ✅ |
+| 07 | Nested Loops & Pattern Printing | ✅ |
+| 08 | Lists | ✅ |
+| 09 | Functions | ✅ |
+| 10 | Advanced Functions | ✅ |
+| 11 | Recursion | ✅ |
+| 12 | File Handling | ✅ |
+| 13 | Exception Handling | ⏳ Next |
 
 ---
 
 # 📂 Repository Structure
 
-```text
+```
 Project-Reboot-180/
 
 │
-├── Python/
-│   ├── Day01/
-│   ├── Day02/
-│   ├── Day03/
-│   ├── Day04/
-│   ├── Day05/
-│   ├── Day06/
-│   ├── Day07/
-│   ├── Day08/
-│   ├── Day09/
-│   ├── Day10/
-│   ├── Day11/
-│   └── ...
+├── README.md
 │
-└── README.md
+└── Python/
+    │
+    ├── Day01/
+    ├── Day02/
+    ├── Day03/
+    ├── Day04/
+    ├── Day05/
+    ├── Day06/
+    ├── Day07/
+    ├── Day08/
+    ├── Day09/
+    ├── Day10/
+    ├── Day11/
+    └── Day12/
 ```
+
+Each day contains:
+
+- Exercises
+- Practice Programs
+- Mini Projects
+- README.md
 
 ---
 
-# 🧠 Skills Developed So Far
+# 📖 Topics Learned
 
-- Logical Thinking
-- Problem Solving
-- Program Design
+## 🟢 Python Fundamentals
+
+- Variables
+- Data Types
+- User Input
+- Output
+- Type Conversion
+- Operators
+
+---
+
+## 🟢 Strings
+
+- String Indexing
+- String Slicing
+- String Methods
+- Escape Characters
+- String Manipulation
+
+---
+
+## 🟢 Conditional Statements
+
+- if
+- elif
+- else
+- Nested Conditions
+- Comparison Operators
+- Logical Operators
+
+---
+
+## 🟢 While Loops
+
+- while loop
+- Infinite loops
+- Loop control
+- User input validation
+
+---
+
+## 🟢 For Loops
+
+- for loop
+- range()
+- Iteration
+- Nested iteration
+
+---
+
+## 🟢 Nested Loops & Pattern Printing
+
+- Nested loops
+- Pattern generation
+- Multiplication tables
+- Algorithmic thinking
+
+---
+
+## 🟢 Lists
+
+- Creating Lists
+- Indexing
+- Slicing
+- Traversing Lists
+- Updating Lists
+- List Methods
+
+---
+
+## 🟢 Functions
+
+- Creating Functions
+- Parameters
+- Arguments
+- Return Values
+- Variable Scope
+- Modular Programming
+
+---
+
+## 🟢 Advanced Functions
+
+- Recursive Thinking Preparation
+- Function Design
 - Function Decomposition
-- Code Reusability
+- Code Organization
+
+---
+
+## 🟢 Recursion
+
+- Base Case
+- Recursive Case
+- Recursive Dry Runs
+- Recursive String Problems
+- Recursive List Problems
+- Recursive Binary Search
+
+---
+
+## 🟢 File Handling
+
+- Why Files are Needed
+- RAM vs Permanent Storage
+- open()
+- read()
+- write()
+- close()
+- Read Mode (`"r"`)
+- Write Mode (`"w"`)
+- Append Mode (`"a"`)
+
+---
+
+# 💻 Projects Completed
+
+## Practice Programs
+
+- Python Fundamentals Exercises
+- String Exercises
+- Conditional Statement Exercises
+- While Loop Exercises
+- For Loop Exercises
+- Pattern Printing Exercises
+- List Exercises
+- Function Exercises
+- Recursion Exercises
+- File Handling Practice Programs
+
+---
+
+## Mini Projects
+
+- Age Calculator
+- Student Record Saver
+- Personal Notes Manager
+- View Personal Notes
+- Notes Manager
+
+---
+
+# 🧠 Skills Developed
+
+Throughout Project Reboot I have developed skills in:
+
+- Problem Solving
+- Algorithm Design
+- Dry Running Programs
 - Recursive Thinking
+- File Handling
+- Program Organization
+- User Input Validation
+- Code Readability
 - Debugging
-- Dry Running Algorithms
-- Clean Code Practices
+- Git & GitHub Workflow
+- Industry Code Review Practices
 
 ---
 
-# 📚 Learning Methodology
+# 📊 Current Progress
 
-Every topic follows the same process:
-
-1. Learn the concept
-2. Understand the logic
-3. Dry run examples
-4. Solve guided exercises
-5. Solve independently
-6. Review using industry standards
-7. Document progress on GitHub
+| Category | Status |
+|-----------|--------|
+| Days Completed | **12** |
+| Core Modules Completed | **12** |
+| Practice Programs | **20+** |
+| Mini Projects | **5+** |
+| GitHub Repository | Active |
 
 ---
 
-# 🏆 Project Goals
+# 📈 Overall Progress
 
-By the end of Project Reboot 180, I aim to:
+```
+Project Reboot
 
-- Write clean and maintainable code
-- Solve programming problems confidently
-- Build complete software projects
-- Understand software engineering principles
-- Learn AI and Machine Learning
-- Create a strong GitHub portfolio
-- Become job-ready for Software Development and AI Engineering roles
+████████████□□□□□□□□□□□□
 
----
-
-# 📈 Current Progress
-
-```text
-Overall Progress
-
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 11 / 180 Days
+Day 12 of Project Reboot Completed
 ```
 
 ---
 
-# 🚀 Next Milestone
+# 🏆 Project Standards
 
-**Day 12 – File Handling**
+Every program in this repository follows these principles:
 
-Upcoming topics:
-
-- Reading Files
-- Writing Files
-- Appending Data
-- File Modes
-- File-Based Mini Projects
-
----
-
-# ⭐ Motto
-
-> **"Consistency beats intensity. Every day of practice builds the developer I want to become."**
+- Algorithm-first approach
+- Meaningful variable names
+- Clean formatting
+- Readable code
+- Incremental improvement
+- Industry-standard code reviews
+- Git version control
 
 ---
 
-## 📅 Status
+# 🌱 Philosophy
 
-**Project Reboot 180 is currently in progress.**
+Project Reboot is about building a strong programming foundation through deliberate practice and continuous improvement.
+
+The objective is not to complete topics quickly, but to master each concept before moving to the next.
+
+Every completed day represents another step toward becoming a confident software developer.
+
+---
+
+# ⏭️ Next Module
+
+## 📘 Day 13 – Exception Handling
+
+Upcoming topics include:
+
+- Runtime Errors
+- Syntax Errors
+- Logical Errors
+- try
+- except
+- finally
+- Building Robust Programs
+
+---
+
+> **"Consistency beats intensity. One well-understood concept every day builds professional-level skills over time."**
