@@ -1,0 +1,4 @@
+
+this is 1st note using PermissionError exception
+this is the read and write program
+thi sis the second time using the read and write program
