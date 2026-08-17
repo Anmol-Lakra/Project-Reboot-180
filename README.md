@@ -2,9 +2,9 @@
 
 > **Rebuilding my Computer Science foundation from scratch—one day, one concept, one project at a time.**
 
-Project Reboot-180 is my structured journey to master programming fundamentals and software development through consistent daily practice, algorithm design, mini projects, and industry-standard code reviews.
+Project Reboot-180 is my structured journey to rebuild my Computer Science foundation and develop strong programming and software-development skills through consistent daily practice, algorithm design, practical projects, code reviews, and GitHub-based development.
 
-The goal is not simply to write code that works, but to understand *why* it works and develop the habits required of a professional software developer.
+The goal is not simply to write code that works, but to understand **why it works**, learn how to design solutions before coding, and develop the habits required of a professional software developer.
 
 ---
 
@@ -13,26 +13,33 @@ The goal is not simply to write code that works, but to understand *why* it work
 * Rebuild programming fundamentals from first principles.
 * Develop strong problem-solving skills.
 * Learn to design algorithms before writing code.
+* Develop the ability to dry-run and predict program behavior.
 * Write clean, readable, and maintainable code.
+* Learn to handle errors and edge cases.
+* Build practical applications instead of only completing isolated exercises.
+* Develop modular programming skills.
 * Build a professional GitHub portfolio.
 * Prepare for Software Development and AI-related careers.
-* Develop the ability to build practical applications independently.
 * Progress from programming fundamentals toward advanced software development and AI.
 
 ---
 
 # 🛠️ Learning Methodology
 
-Every topic follows the same learning process.
+Every topic follows the same learning process:
 
 ```text
 Learn Concept
       ↓
 Concept Questions
       ↓
+Predict / Dry Run
+      ↓
 Algorithm Design
       ↓
 Implementation
+      ↓
+Testing & Edge Cases
       ↓
 Industry Code Review
       ↓
@@ -41,30 +48,38 @@ Improvement
 GitHub
 ```
 
-The emphasis is on understanding, not memorization.
+The emphasis is on **understanding, not memorization**.
 
-Each day combines learning with hands-on coding, exercises, debugging, and practical application.
+Every program is treated as an opportunity to improve:
+
+* Programming logic
+* Algorithm design
+* Code quality
+* Debugging
+* Problem solving
+* Software design
 
 ---
 
 # 📚 Curriculum Progress
 
-| Day | Module                          | Status |
-| --: | ------------------------------- | :----: |
-|  01 | Python Fundamentals             |    ✅   |
-|  02 | Strings                         |    ✅   |
-|  03 | Conditional Statements          |    ✅   |
-|  04 | Advanced Conditional Statements |    ✅   |
-|  05 | While Loops                     |    ✅   |
-|  06 | For Loops                       |    ✅   |
-|  07 | Nested Loops & Pattern Printing |    ✅   |
-|  08 | Lists                           |    ✅   |
-|  09 | Functions                       |    ✅   |
-|  10 | Advanced Functions              |    ✅   |
-|  11 | Recursion                       |    ✅   |
-|  12 | File Handling                   |    ✅   |
-|  13 | Exception Handling              |    ✅   |
-|  14 | Next Module                     |    ⏳   |
+| Day | Module                                   | Status |
+| --: | ---------------------------------------- | :----: |
+|  01 | Python Fundamentals                      |    ✅   |
+|  02 | Strings                                  |    ✅   |
+|  03 | Conditional Statements                   |    ✅   |
+|  04 | Advanced Conditional Statements          |    ✅   |
+|  05 | While Loops                              |    ✅   |
+|  06 | For Loops                                |    ✅   |
+|  07 | Nested Loops & Pattern Printing          |    ✅   |
+|  08 | Lists                                    |    ✅   |
+|  09 | Functions                                |    ✅   |
+|  10 | Advanced Functions                       |    ✅   |
+|  11 | Recursion                                |    ✅   |
+|  12 | File Handling                            |    ✅   |
+|  13 | Exception Handling                       |    ✅   |
+|  14 | Exception Handling + Robust Applications |    ✅   |
+|  15 | Dictionaries                             |    ⏳   |
 
 ---
 
@@ -90,7 +105,8 @@ Project-Reboot-180/
     ├── Day10/
     ├── Day11/
     ├── Day12/
-    └── Day13/
+    ├── Day13/
+    └── Day14/
 ```
 
 Each day contains:
@@ -240,26 +256,45 @@ Each day contains:
 
 ## 🟢 Exception Handling
 
-* Understanding program errors
 * Syntax Errors
 * Logical Errors
 * Runtime Errors
 * `try`
 * `except`
+* `else`
+* `finally`
 * `ValueError`
 * `ZeroDivisionError`
 * `FileNotFoundError`
 * `PermissionError`
 * Multiple exception handling
-* `else`
-* `finally`
-* Safe user input
-* Safe file operations
+* Input validation
+* Error handling
 * Building robust programs
 
 ---
 
-# 💻 Projects Completed
+## 🟢 Robust Application Design
+
+Day 14 focused on combining previously learned concepts into complete applications.
+
+Topics practiced:
+
+* Function decomposition
+* Single-responsibility thinking
+* Input validation
+* Menu-driven applications
+* Boolean return values
+* Functions communicating through return values
+* Combining loops with exception handling
+* Combining functions with file handling
+* Separating application logic from user-interface output
+* Edge-case thinking
+* Algorithm-first development
+
+---
+
+# 💻 Projects & Practice Programs
 
 ## Practice Programs
 
@@ -274,53 +309,65 @@ Each day contains:
 * Recursion Exercises
 * File Handling Practice Programs
 * Exception Handling Practice Programs
-* Safe Calculator
+* Safe Number Input
+* Reusable Safe Number Input
 * Safe File Reader
 * Safe File Writer
-* Student Record Program
+* Robust Notes Saver
 
 ---
 
-## Mini Projects
+# 🚀 Mini Projects
 
-### Age Calculator
+## Age Calculator
 
-A beginner Python application built while learning fundamental input, variables, type conversion, and arithmetic operations.
+A beginner Python application using:
 
-### Student Record Saver
+* User input
+* Variables
+* Type conversion
+* Arithmetic operations
+
+---
+
+## Student Record Saver
 
 A file-handling application that accepts student information and permanently stores records.
 
-### Personal Notes Manager
+---
+
+## Personal Notes Manager
 
 A simple application for storing user notes permanently using file handling.
 
-### View Personal Notes
+---
+
+## View Personal Notes
 
 A program that reads and displays previously stored notes.
 
-### Notes Manager
+---
 
-An interactive application combining:
+## Notes Manager
+
+A complete menu-driven application combining:
 
 * User input
+* Input validation
 * Functions
 * Loops
 * File handling
-* Input validation
-* Menu-based interaction
+* Exception handling
+* Return values
+* Menu-driven control flow
 
-### Safe Calculator
+Features:
 
-A calculator designed to handle invalid numeric input and division-by-zero errors using exception handling.
-
-### Safe File Reader
-
-A file-reading program designed to safely handle missing files.
-
-### Safe File Writer
-
-A file-writing program designed to handle file permission errors.
+```text
+1. Add Note
+2. View Notes
+3. Exit
+```
 
 ---
 
@@ -335,15 +382,60 @@ Throughout Project Reboot I have developed skills in:
 * Recursive Thinking
 * File Handling
 * Exception Handling
+* Input Validation
+* Function Decomposition
+* Modular Programming
+* Return Values
+* Boolean Logic
+* Menu-Driven Program Design
 * Program Organization
-* User Input Validation
-* Error Handling
 * Code Readability
 * Debugging
+* Edge-Case Analysis
 * Git & GitHub Workflow
 * Industry Code Review Practices
-* Breaking problems into smaller components
-* Building practical command-line programs
+
+---
+
+# 🧪 Testing & Edge Cases
+
+Testing has become an important part of the learning process.
+
+Programs are tested against situations such as:
+
+* Invalid numeric input
+* Blank input
+* Invalid menu choices
+* Negative values
+* Values outside an accepted range
+* Division by zero
+* Missing files
+* File permission errors
+* Empty files
+* Repeated user input
+* Successful and unsuccessful operations
+
+The goal is to make programs behave predictably even when users do not provide the expected input.
+
+---
+
+# 🏗️ Programming Principles
+
+Every program in this repository increasingly follows these principles:
+
+* Algorithm-first approach
+* Understand before implementing
+* Meaningful variable names
+* Small, focused functions
+* Separation of responsibilities
+* Clean formatting
+* Readable code
+* Specific exception handling
+* Input validation
+* Edge-case testing
+* Incremental improvement
+* Industry-standard code reviews
+* Git version control
 
 ---
 
@@ -351,8 +443,8 @@ Throughout Project Reboot I have developed skills in:
 
 | Category               | Status  |
 | ---------------------- | ------- |
-| Days Completed         | **13**  |
-| Core Modules Completed | **13**  |
+| Days Completed         | **14**  |
+| Core Modules Completed | **14**  |
 | Practice Programs      | **30+** |
 | Mini Projects          | **8+**  |
 | GitHub Repository      | Active  |
@@ -364,46 +456,16 @@ Throughout Project Reboot I have developed skills in:
 ```text
 Project Reboot-180
 
-█████████████□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+██████████████□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-Day 13 of Project Reboot Completed
+14 / 180 Days Completed
 ```
 
 ### Current Milestone
 
-**13 / 180 Days**
+**14 / 180 Days**
 
-The first 13 days have established the core Python foundation required for the next stages of the project.
-
----
-
-# 🏆 Project Standards
-
-Every program in this repository follows these principles:
-
-* Algorithm-first approach
-* Understand before implementing
-* Meaningful variable names
-* Clean formatting
-* Readable code
-* Incremental improvement
-* Industry-standard code reviews
-* Error handling
-* Practical problem solving
-* Git version control
-* Consistent documentation
-
----
-
-# 🌱 Philosophy
-
-Project Reboot is about building a strong programming foundation through deliberate practice and continuous improvement.
-
-The objective is not to complete topics quickly, but to **understand and master each concept before moving to the next**.
-
-Every completed day represents another step toward becoming a confident software developer.
-
-The long-term goal is to progress from fundamental programming concepts to advanced software development, real-world projects, and AI-related development.
+The first 14 days have established a strong Python foundation covering programming logic, data handling, functions, recursion, files, exception handling, and small application development.
 
 ---
 
@@ -423,6 +485,8 @@ Recursion
 File Handling
         ↓
 Exception Handling
+        ↓
+Robust Applications
         ↓
 Advanced Python
         ↓
@@ -445,9 +509,51 @@ Portfolio & Career Preparation
 
 ---
 
+# 🏆 Day 14 Milestone
+
+Day 14 marked an important transition in Project Reboot.
+
+Instead of working only on isolated exercises, I built a complete **menu-driven Notes Manager**.
+
+The application combines:
+
+```text
+Functions
+   +
+Loops
+   +
+Input Validation
+   +
+Exception Handling
+   +
+File Handling
+   +
+Return Values
+   +
+Menu System
+   =
+Practical Application
+```
+
+This demonstrated how individual programming concepts can work together to create a usable application.
+
+---
+
+# 🌱 Philosophy
+
+Project Reboot is about building a strong programming foundation through deliberate practice and continuous improvement.
+
+The objective is not to complete topics quickly, but to **understand and master each concept before moving to the next**.
+
+Every completed day represents another step toward becoming a confident software developer.
+
+The long-term objective is to progress from fundamental programming concepts to advanced software development, real-world projects, and AI-related development.
+
+---
+
 # 🔥 Current Focus
 
-## Day 13 — Exception Handling ✅
+## Day 14 — Completed ✅
 
 The current foundation includes the ability to:
 
@@ -460,25 +566,31 @@ The current foundation includes the ability to:
 * Store and retrieve information from files
 * Handle runtime errors
 * Validate user input
-* Build more reliable applications
+* Build menu-driven applications
+* Build small modular applications
+* Use functions to communicate through return values
 
 ---
 
 # ⏭️ Next Module
 
-## 📘 Day 14
+## 📘 Day 15 — Dictionaries
 
-Continue building on the Python foundation established during Days 1–13.
+The next stage of Project Reboot introduces Python dictionaries.
 
-The next module will introduce new concepts while continuing to reinforce:
+Upcoming concepts include:
 
-* Problem solving
-* Algorithm design
-* Clean coding
-* Practical implementation
-* Debugging
-* Code review
-* GitHub documentation
+* Dictionary creation
+* Keys
+* Values
+* Accessing dictionary data
+* Adding data
+* Updating data
+* Removing data
+* Dictionary methods
+* Iterating through dictionaries
+* Nested dictionaries
+* Practical applications
 
 ---
 
@@ -487,12 +599,12 @@ The next module will introduce new concepts while continuing to reinforce:
 ```text
 PROJECT REBOOT-180
 
-13 DAYS COMPLETED
-13 CONCEPTS BUILT
+14 DAYS COMPLETED
 30+ PRACTICE PROGRAMS
 8+ MINI PROJECTS
 
-FOUNDATION → BUILT
+PYTHON FOUNDATION → BUILT
+PRACTICAL APPLICATIONS → STARTED
 JOURNEY → CONTINUES
 ```
 
