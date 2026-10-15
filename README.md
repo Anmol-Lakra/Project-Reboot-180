@@ -53,6 +53,7 @@ Every topic is accompanied by exercises, mini-projects, code reviews, and GitHub
 | Day 13 | Exception Handling | ✅ |
 | Day 14 | Python Dictionaries & Dictionary Operations | ✅ |
 | Day 15 | Dictionaries, Functions, Input Validation & CRUD | ✅ |
+| Day 16 | Nested Dictionaries & Student Management System | ✅ |
 
 ---
 
@@ -595,8 +596,6 @@ Day 15 focused on learning Python dictionaries and using them with functions, in
 - Input validation
 - CRUD operations
 
----
-
 ## 💻 Project: Student Dictionary CRUD Manager
 
 A console-based Python program that stores and manages student information using a dictionary.
@@ -615,8 +614,6 @@ A console-based Python program that stores and manages student information using
 - Exit the program
 - Validate user input
 
----
-
 ## 🧩 Program Structure
 
 The project was divided into separate functions:
@@ -633,8 +630,6 @@ The project was divided into separate functions:
 - `update_information()`
 - `remove_information()`
 
----
-
 ## 🔄 CRUD Implementation
 
 | Operation | Function |
@@ -644,13 +639,72 @@ The project was divided into separate functions:
 | Update | `update_information()` |
 | Delete | `remove_information()` |
 
----
-
 ## 🧠 Key Learning Outcome
 
 By completing Day 15, I learned how to use dictionaries as structured data and combine them with functions and validation to build a practical Python program.
 
 I also learned how dictionary data can be passed to functions and modified through CRUD operations.
+
+---
+
+# 📅 Day 16 — Nested Dictionaries & Student Management System
+
+Day 16 focused on using nested dictionaries to organize related information and combining previously learned Python concepts into a menu-driven application.
+
+## Topics Covered
+
+- Nested dictionaries
+- Accessing values inside inner dictionaries
+- Iterating through dictionaries with `.items()`
+- Adding, updating, and deleting dictionary information
+- Searching student records by ID, information field, value, or course
+- Boolean flags to track whether records or matches were found
+- Dynamic counting with a dictionary counter
+- Calculating total, average, youngest, and oldest age
+- Input validation with conditions and `try` / `except ValueError`
+- Functions, loops, and conditional statements
+- Handling empty collections and missing fields
+
+## 💻 Project: Student Management System
+
+A menu-driven console application that stores student records in a nested dictionary. Each student record can contain fields such as name, age, and course.
+
+### Menu Features
+
+1. Display all students
+2. Search information for a specific student
+3. Update student information
+4. Delete information from a student record
+5. Delete a student record
+6. Find students by an information field and value
+7. Display student statistics
+8. Display course distribution
+9. Find students enrolled in a course
+10. Exit the application
+
+### Input Validation and Data Handling
+
+- Rejects blank text input.
+- Rejects text input consisting entirely of digits where text is expected.
+- Validates numeric input and rejects values below 1.
+- Converts age input to an integer after successful validation.
+- Handles missing student IDs and missing information fields.
+- Accounts for student records that may be missing age or course information.
+- Displays messages when student records or course information are unavailable.
+
+### Search and Statistics
+
+- Searches student records using a selected field, such as name, age, or course.
+- Displays all matching student records.
+- Counts how many students are enrolled in each course.
+- Reports the total number of students and the number of students with age information.
+- Calculates average, youngest, and oldest age from available age values.
+
+### Key Learning Outcome
+
+By completing Day 16, I practised organizing related data with nested dictionaries and combining dictionary operations, functions, input validation, loops, searching, and statistics in one application.
+
+The student data is stored in memory. Changes made during a session are not saved permanently to a file or database, so the sample records are loaded again when the program restarts.
 
 ---
 
@@ -674,103 +728,123 @@ Project-Reboot-180/
 │   ├── Day12/
 │   ├── Day13/
 │   ├── Day14/
-│   └── Day15/
+│   ├── Day15/
+│   └── Day16/
 │
 └── README.md
+```
 
-🧠 Skills Developed So Far
-Logical Thinking
-Problem Solving
-Program Design
-Algorithm Design
-Function Decomposition
-Code Reusability
-Recursive Thinking
-Debugging
-Dry Running Algorithms
-Input Validation
-Error Handling
-File Handling
-Dictionary Manipulation
-CRUD Operations
-Clean Code Practices
-Program Organization
-Code Readability
-Git & GitHub Workflow
-Industry Code Review Practices
-📚 Learning Methodology
+---
+
+## 🧠 Skills Developed So Far
+
+- Logical Thinking
+- Problem Solving
+- Program Design
+- Algorithm Design
+- Function Decomposition
+- Code Reusability
+- Recursive Thinking
+- Debugging
+- Dry Running Algorithms
+- Input Validation
+- Error Handling
+- File Handling
+- Dictionary Manipulation
+- Nested Dictionaries
+- CRUD Operations
+- Record Searching and Filtering
+- Basic Data Statistics
+- Clean Code Practices
+- Program Organization
+- Code Readability
+- Git & GitHub Workflow
+- Industry Code Review Practices
+
+---
+
+## 📚 Learning Methodology
 
 Every topic follows the same process:
 
-Learn the concept
-Understand the logic
-Dry run examples
-Solve guided exercises
-Solve independently
-Build a practical program
-Review using industry standards
-Correct and improve the implementation
-Document progress on GitHub
-🏆 Project Goals
+1. Learn the concept
+2. Understand the logic
+3. Dry run examples
+4. Solve guided exercises
+5. Solve independently
+6. Build a practical program
+7. Review using industry standards
+8. Correct and improve the implementation
+9. Document progress on GitHub
+
+---
+
+## 🏆 Project Goals
 
 By the end of Project Reboot 180, I aim to:
 
-Write clean and maintainable code
-Solve programming problems confidently
-Build complete software projects
-Understand software engineering principles
-Learn Data Structures & Algorithms
-Learn Databases and SQL
-Learn Web Development
-Learn APIs
-Learn advanced Git and GitHub practices
-Learn software testing
-Learn AI and Machine Learning
-Create a strong GitHub portfolio
-Become job-ready for Software Development and AI Engineering roles
-🛣️ Future Roadmap
+- Write clean and maintainable code
+- Solve programming problems confidently
+- Build complete software projects
+- Understand software engineering principles
+- Learn Data Structures & Algorithms
+- Learn Databases and SQL
+- Learn Web Development
+- Learn APIs
+- Learn advanced Git and GitHub practices
+- Learn software testing
+- Learn AI and Machine Learning
+- Create a strong GitHub portfolio
+- Become job-ready for Software Development and AI Engineering roles
+
+---
+
+## 🛣️ Future Roadmap
 
 The following areas are planned for later stages of the journey:
 
-Object-Oriented Programming
-Data Structures & Algorithms
-Databases / SQL
-Web Development
-APIs
-Advanced Git & GitHub
-Testing
-AI & Machine Learning
-Portfolio Projects
-Final Project Completion
-📈 Current Progress
-Project Reboot-180
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Databases / SQL
+- Web Development
+- APIs
+- Advanced Git & GitHub
+- Testing
+- AI & Machine Learning
+- Portfolio Projects
+- Final Project Completion
 
+---
 
-████████████████████░░░░░░░░░░░░░░░░░░
+## 📈 Current Progress
 
+**Project Reboot-180**
 
-15 / 180 Days Completed
+`16 / 180 Days Completed`
 
-Days Completed: 15 / 180
+- **Days Completed:** 16 / 180
+- **Days Remaining:** 164
+- **Progress:** 8.89%
 
-Days Remaining: 165
+---
 
-Progress: 8.33%
-
-🏆 Project Standards
+## 🏆 Project Standards
 
 Every program in this repository follows these principles:
 
-Algorithm-first approach
-Meaningful variable names
-Clean formatting
-Readable code
-Input validation
-Incremental improvement
-Industry-standard code reviews
-Git version control
-Practical problem solving
-🌱 Philosophy
+- Algorithm-first approach
+- Meaningful variable names
+- Clean formatting
+- Readable code
+- Input validation
+- Incremental improvement
+- Industry-standard code reviews
+- Git version control
+- Practical problem solving
+
+---
+
+## 🌱 Philosophy
 
 Project Reboot 180 is about building a strong programming foundation through deliberate practice and continuous improvement.
 
@@ -778,18 +852,19 @@ The objective is not to complete topics quickly, but to understand each concept 
 
 Every completed day represents another step toward becoming a confident software developer.
 
-⭐ Motto
+---
 
-"Consistency beats intensity. Every day of practice builds the developer I want to become."
+## ⭐ Motto
 
-📅 Status
+> "Consistency beats intensity. Every day of practice builds the developer I want to become."
+
+---
+
+## 📅 Status
 
 Project Reboot 180 is currently in progress.
 
-Current Progress: 15 / 180 Days
-
-Day 15 — Completed ✅
-
-Current Focus: Python Dictionaries, Functions, Input Validation & CRUD
-
-Current Project: Student Dictionary CRUD Manager
+- **Current Progress:** 16 / 180 Days
+- **Day 16:** Completed ✅
+- **Current Focus:** Nested Dictionaries, Searching, Input Validation & Statistics
+- **Current Project:** Student Management System
